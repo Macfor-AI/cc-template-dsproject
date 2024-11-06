@@ -16,7 +16,11 @@
 
 8. Crie seu ambiente virtual e, como boas práticas, sempre alimente o 'requirements.txt' com as versões de frameworks utilizadas no seu projeto.
 
-9. Have fun! Se divirta enquanto trabalha, afinal, se estamos aqui, estamos fazendo o que gostamos, não é mesmo?!
+9. A pasta 'app' é um espaço dedicado a desenvolvimento de APIs ou Aplicações no geral.
+
+10. Utilize o padrão de Commits sugerido no readme do perfil github da Macfor-AI
+
+11. Have fun! Se divirta enquanto trabalha, afinal, se estamos aqui, estamos fazendo o que gostamos, não é mesmo?!
 
 Best,
 
